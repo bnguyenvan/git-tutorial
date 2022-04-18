@@ -1,0 +1,8 @@
+git config --global user.name "Bong Nguyen"
+git config --global user.email "microwave88@gmail.com"
+git init
+git checkout
+git add .
+git commit -m "abc"
+git push
+git pull
